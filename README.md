@@ -1,4 +1,4 @@
-#Why Algorithms Journey
+## Why Algorithms Journey?
 
 This repository contains notebook for a newbie programmer who might need to know a few things in algorithms and Data structures
 
